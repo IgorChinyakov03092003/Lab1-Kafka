@@ -1,0 +1,6 @@
+kafka-python
+numpy
+pandas
+catboost
+joblib
+scikit-learn
